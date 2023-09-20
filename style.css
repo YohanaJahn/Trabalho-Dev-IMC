@@ -1,0 +1,8 @@
+body{
+    border-radius: 8px;
+    border: solid 3px black;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    padding: 20px;
+}
